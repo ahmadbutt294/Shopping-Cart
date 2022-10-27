@@ -1,0 +1,38 @@
+.productCardDesign {
+  width: 200px;
+  height: 536px;
+  display: grid;
+  /* background-color: gray;
+  border: 2px solid black; */
+  /* margin-top: 20px; */
+  padding: 10px;
+  /* margin-bottom: 30px; */
+  /* grid-template-columns: 1fr 4fr; */
+}
+.cardImage img {
+  width: 220px;
+  height: 320px;
+}
+.productname {
+  text-align: center;
+  padding: 15px 02px;
+  height: 45px;
+}
+.pp {
+  width: 220px;
+  height: 60px;
+}
+.productprice {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.productprice small {
+  margin-top: 3px;
+}
+.productprice b {
+  font-size: x-large;
+}
+.discount {
+  text-align: center;
+}

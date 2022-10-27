@@ -1,0 +1,61 @@
+.sizesmain {
+  width: 240px;
+
+  /* border: 2px solid red; */
+  padding: 15px;
+  /* margin-right: 10px; */
+}
+.size {
+  margin-top: 2px;
+  margin-bottom: 20px;
+}
+.sizebuttonmain span {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 35px;
+  font-size: 0.8em;
+  border-radius: 50%;
+  box-sizing: border-box;
+  line-height: 35px;
+  text-align: center;
+  color: rgb(27, 26, 32);
+  background-color: rgb(236, 236, 236);
+  border: 1px solid transparent;
+}
+.sizebutton {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.sizebutton label {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+  width: 35px;
+  height: 35px;
+  font-size: 0.8em;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  border-radius: 50%;
+  line-height: 35px;
+  text-align: center;
+}
+/* .star {
+  display: block;
+  box-sizing: border-box;
+} */
+.star small {
+  font-size: 80%;
+}
+.star p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.star a {
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+.Products {
+  width: 950px;
+  display: grid;
+  /* border: 2px solid rgb(32, 164, 45); */
+  /* padding: 10px; */
+}
+.totalproducts {
+  padding: 15px;
+  max-width: 960px;
+}
+.productcards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
