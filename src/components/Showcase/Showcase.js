@@ -10,9 +10,6 @@ const Showcase = () => {
         <Size />
         <Products />
       </div>
-      <div className={classes.mainsidebar}>
-        <Sidebar />
-      </div>
     </div>
   );
 };

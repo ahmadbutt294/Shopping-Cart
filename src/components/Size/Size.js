@@ -50,7 +50,7 @@ const Size = () => {
               Leave a star on Github if this repository is useful :)))
             </small>
           </p>
-          <a>Star</a>
+          <a href="/">Star</a>
         </div>
       </div>
     </div>

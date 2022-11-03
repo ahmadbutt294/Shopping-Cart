@@ -8,6 +8,7 @@
   padding: 10px;
   /* margin-bottom: 30px; */
   /* grid-template-columns: 1fr 4fr; */
+  z-index: -1;
 }
 .cardImage img {
   width: 220px;
